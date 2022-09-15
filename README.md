@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @datboi2001
-- 👀 I’m interested in Stock Market, Cryptocurrency Market  
+- 👀 I’m interested in Stock Market and Fintech  
 - 🌱 I’m currently learning Python, SQL, Javascript  
 - 📫 How to reach me manhdat07042001@gmail.com, Discord datbeo2001#0849
 
